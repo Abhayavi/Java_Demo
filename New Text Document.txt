@@ -1,0 +1,24 @@
+	class practice1
+		{
+	int a;
+	int b;
+	public void sum(int a, int b){
+	this.a=a;
+	this.b=b;
+		}
+		public void addnumber()
+				{
+		int add;
+		add=a+b;
+		system.out.println(""+area);
+				}
+}
+
+		public static void main (String args[])
+	{
+		add rf=new add(2,5);
+		rf.addnumbe();
+	}
+}
+
+
